@@ -1,0 +1,283 @@
+Tmatt
+v7
+r0
+t349240456.480504
+cCheck dependencies
+cProcessInfoPlistFile /Users/Guest/Documents/matt/build/Debug/matt.app/Contents/Info.plist matt-Info.plist
+cCopyStringsFile /Users/Guest/Documents/matt/build/Debug/matt.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/Guest/Documents/matt/MainMenu.xib
+cProcessPCH /var/folders/zz/zzzivhrRnAmviuee++++mE+++AY/-Caches-/com.apple.Xcode.201/SharedPrecompiledHeaders/matt_Prefix-epztgryahenajnejyvzqxxzirmbp/matt_Prefix.pch.gch matt_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/matt.build/Debug/matt.build/Objects-normal/x86_64/main.o /Users/Guest/Documents/matt/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/matt.build/Debug/matt.build/Objects-normal/x86_64/mattAppDelegate.o /Users/Guest/Documents/matt/mattAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/matt.build/Debug/matt.build/Objects-normal/x86_64/board.o /Users/Guest/Documents/matt/board.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/matt.build/Debug/matt.build/Objects-normal/x86_64/cell.o /Users/Guest/Documents/matt/cell.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Guest/Documents/matt/build/Debug/matt.app/Contents/MacOS/matt normal x86_64
+cTouch /Users/Guest/Documents/matt/build/Debug/matt.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Guest/Documents/matt/English.lproj/InfoPlist.strings
+c000000004F20C272000000000000002D
+t1327546994
+s45
+
+N/Users/Guest/Documents/matt/English.lproj/MainMenu.xib
+c000000004F20C272000000000002BB4A
+t1327546994
+s179018
+
+N/Users/Guest/Documents/matt/MainMenu.xib
+c000000004F20C39D000000000003CD91
+t1327547293
+s249233
+
+N/Users/Guest/Documents/matt/board.h
+c000000004F20C2060000000000000201
+t1327546886
+s513
+i<Cocoa/Cocoa.h>
+
+N/Users/Guest/Documents/matt/board.m
+c000000004F20C4E6000000000000277F
+t1327547622
+s10111
+i"board.h"
+i"cell.h"
+
+N/Users/Guest/Documents/matt/build/Debug/matt.app
+t1327547656
+s102
+
+N/Users/Guest/Documents/matt/build/Debug/matt.app/Contents/Info.plist
+t1327547623
+s1275
+
+N/Users/Guest/Documents/matt/build/Debug/matt.app/Contents/MacOS/matt
+t1327547656
+s27112
+
+N/Users/Guest/Documents/matt/build/Debug/matt.app/Contents/PkgInfo
+t1327547623
+s8
+
+N/Users/Guest/Documents/matt/build/Debug/matt.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1327547625
+s92
+
+N/Users/Guest/Documents/matt/build/Debug/matt.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/Guest/Documents/matt/build/Debug/matt.app/Contents/Resources/MainMenu.nib
+t1327547628
+s52570
+
+N/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/Objects-normal/x86_64/board.o
+t1327547654
+s32684
+
+N/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/Objects-normal/x86_64/cell.o
+t1327547652
+s20776
+
+N/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/Objects-normal/x86_64/main.o
+t1327547651
+s4976
+
+N/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/Objects-normal/x86_64/matt.LinkFileList
+c000000004F20C4E70000000000000178
+t1327547623
+s376
+
+N/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/Objects-normal/x86_64/mattAppDelegate.o
+t1327547652
+s21016
+
+N/Users/Guest/Documents/matt/cell.h
+c000000004F20C2090000000000000274
+t1327546889
+s628
+i<Cocoa/Cocoa.h>
+
+N/Users/Guest/Documents/matt/cell.m
+c000000004F20C20B00000000000003F0
+t1327546891
+s1008
+i"cell.h"
+
+N/Users/Guest/Documents/matt/main.m
+c000000004F20C27200000000000000FB
+t1327546994
+s251
+i<Cocoa/Cocoa.h>
+
+N/Users/Guest/Documents/matt/mattAppDelegate.h
+c000000004F20C2720000000000000133
+t1327546994
+s307
+i<Cocoa/Cocoa.h>
+
+N/Users/Guest/Documents/matt/mattAppDelegate.m
+c000000004F20C2720000000000000165
+t1327546994
+s357
+i"mattAppDelegate.h"
+
+N/Users/Guest/Documents/matt/matt_Prefix.pch
+c000000004F20C272000000000000008B
+t1327546994
+s139
+i<Cocoa/Cocoa.h>
+
+N/var/folders/zz/zzzivhrRnAmviuee++++mE+++AY/-Caches-/com.apple.Xcode.201/SharedPrecompiledHeaders/matt_Prefix-epztgryahenajnejyvzqxxzirmbp/matt_Prefix.pch.gch
+t1327547648
+s54306576
+
+Nmatt-Info.plist
+c000000004F20C27200000000000003EA
+t1327546994
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies349240422#349240423#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/matt.build/Debug/matt.build/Objects-normal/x86_64/board.o /Users/Guest/Documents/matt/board.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s349240449.022717
+e349240454.996917
+r1
+xCompileC
+xbuild/matt.build/Debug/matt.build/Objects-normal/x86_64/board.o
+x/Users/Guest/Documents/matt/board.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Guest/Documents/matt/board.m:403: warning: incomplete implementation of class 'board'
+o/Users/Guest/Documents/matt/board.m:403: warning: method definition for '-liveNeighbors' not found
+lSLF07#2@43"Compile /Users/Guest/Documents/matt/board.m349240449#349240454#0(192"/Users/Guest/Documents/matt/board.m:403: warning: incomplete implementation of class 'board'/Users/Guest/Documents/matt/board.m:403: warning: method definition for '-liveNeighbors' not found2(22@42"Incomplete implementation of class 'board'349240449#0#93#0(6@35"/Users/Guest/Documents/matt/board.m349240422#403#0#403#0#38"incomplete implementation of class '*'0(22@48"Method definition for '-liveNeighbors' not found349240449#93#99#0(6@35"/Users/Guest/Documents/matt/board.m349240422#403#0#403#0#35"method definition for '*' not found0(0#0#35"/Users/Guest/Documents/matt/board.m8618310112#1271"    cd /Users/Guest/Documents/matt    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-generated-files.hmap -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-own-target-headers.hmap -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-all-target-headers.hmap -iquote /Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-project-headers.hmap -F/Users/Guest/Documents/matt/build/Debug -I/Users/Guest/Documents/matt/build/Debug/include -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/DerivedSources/x86_64 -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/DerivedSources -include /var/folders/zz/zzzivhrRnAmviuee++++mE+++AY/-Caches-/com.apple.Xcode.201/SharedPrecompiledHeaders/matt_Prefix-epztgryahenajnejyvzqxxzirmbp/matt_Prefix.pch -c /Users/Guest/Documents/matt/board.m -o /Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/Objects-normal/x86_64/board.o0#
+
+CCompileC build/matt.build/Debug/matt.build/Objects-normal/x86_64/cell.o /Users/Guest/Documents/matt/cell.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s349240449.024003
+e349240452.422356
+r1
+xCompileC
+xbuild/matt.build/Debug/matt.build/Objects-normal/x86_64/cell.o
+x/Users/Guest/Documents/matt/cell.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Guest/Documents/matt/cell.m: In function '+[cell makeWithX:WithY:]':
+o/Users/Guest/Documents/matt/cell.m:15: warning: conflicting types for '+(id)makeWithX:(int)col WithY:(int)row'
+o/Users/Guest/Documents/matt/cell.h:22: warning: previous declaration of '+(id)makeWithX:(id)row WithY:(id)col'
+o/Users/Guest/Documents/matt/cell.m:16: warning: instance variable 'x' accessed in class method
+o/Users/Guest/Documents/matt/cell.m:17: warning: instance variable 'y' accessed in class method
+o/Users/Guest/Documents/matt/cell.m:18: warning: instance variable 'life' accessed in class method
+o/Users/Guest/Documents/matt/cell.m:19: warning: instance variable 'nextLife' accessed in class method
+o/Users/Guest/Documents/matt/cell.m:20: warning: instance variable 'liveNeighbors' accessed in class method
+o/Users/Guest/Documents/matt/cell.m:21: warning: instance variable 'numNeighbors' accessed in class method
+o/Users/Guest/Documents/matt/cell.m:22: warning: control reaches end of non-void function
+lSLF07#2@42"Compile /Users/Guest/Documents/matt/cell.m349240449#349240452#0(990"/Users/Guest/Documents/matt/cell.m: In function '+[cell makeWithX:WithY:]':/Users/Guest/Documents/matt/cell.m:15: warning: conflicting types for '+(id)makeWithX:(int)col WithY:(int)row'/Users/Guest/Documents/matt/cell.h:22: warning: previous declaration of '+(id)makeWithX:(id)row WithY:(id)col'/Users/Guest/Documents/matt/cell.m:16: warning: instance variable 'x' accessed in class method/Users/Guest/Documents/matt/cell.m:17: warning: instance variable 'y' accessed in class method/Users/Guest/Documents/matt/cell.m:18: warning: instance variable 'life' accessed in class method/Users/Guest/Documents/matt/cell.m:19: warning: instance variable 'nextLife' accessed in class method/Users/Guest/Documents/matt/cell.m:20: warning: instance variable 'liveNeighbors' accessed in class method/Users/Guest/Documents/matt/cell.m:21: warning: instance variable 'numNeighbors' accessed in class method/Users/Guest/Documents/matt/cell.m:22: warning: control reaches end of non-void function9(22@62"Conflicting types for '+(id)makeWithX:(int)col WithY:(int)row'349240449#76#111#0(6@34"/Users/Guest/Documents/matt/cell.m349239691#15#0#15#0#25"conflicting types for '*'0(22@62"Previous declaration of '+(id)makeWithX:(id)row WithY:(id)col'349240449#187#111#0(6@34"/Users/Guest/Documents/matt/cell.h349239689#22#0#22#0#0"0(22@46"Instance variable 'x' accessed in class method349240449#298#95#0(6@34"/Users/Guest/Documents/matt/cell.m349239691#16#0#16#0#0"0(22@46"Instance variable 'y' accessed in class method349240449#393#95#0(6@34"/Users/Guest/Documents/matt/cell.m349239691#17#0#17#0#0"0(22@49"Instance variable 'life' accessed in class method349240449#488#98#0(6@34"/Users/Guest/Documents/matt/cell.m349239691#18#0#18#0#0"0(22@53"Instance variable 'nextLife' accessed in class method349240449#586#102#0(6@34"/Users/Guest/Documents/matt/cell.m349239691#19#0#19#0#0"0(22@58"Instance variable 'liveNeighbors' accessed in class method349240449#688#107#0(6@34"/Users/Guest/Documents/matt/cell.m349239691#20#0#20#0#0"0(22@57"Instance variable 'numNeighbors' accessed in class method349240449#795#106#0(6@34"/Users/Guest/Documents/matt/cell.m349239691#21#0#21#0#0"0(22@40"Control reaches end of non-void function349240449#901#89#0(6@34"/Users/Guest/Documents/matt/cell.m349239691#22#0#22#0#40"control reaches end of non-void function0(0#0#34"/Users/Guest/Documents/matt/cell.m8619902912#1269"    cd /Users/Guest/Documents/matt    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-generated-files.hmap -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-own-target-headers.hmap -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-all-target-headers.hmap -iquote /Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-project-headers.hmap -F/Users/Guest/Documents/matt/build/Debug -I/Users/Guest/Documents/matt/build/Debug/include -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/DerivedSources/x86_64 -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/DerivedSources -include /var/folders/zz/zzzivhrRnAmviuee++++mE+++AY/-Caches-/com.apple.Xcode.201/SharedPrecompiledHeaders/matt_Prefix-epztgryahenajnejyvzqxxzirmbp/matt_Prefix.pch -c /Users/Guest/Documents/matt/cell.m -o /Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/Objects-normal/x86_64/cell.o0#
+
+CCompileC build/matt.build/Debug/matt.build/Objects-normal/x86_64/main.o /Users/Guest/Documents/matt/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s349240448.989038
+e349240452.174849
+r1
+xCompileC
+xbuild/matt.build/Debug/matt.build/Objects-normal/x86_64/main.o
+x/Users/Guest/Documents/matt/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/Guest/Documents/matt/main.m349240448#349240452#0(0"0(0#0#34"/Users/Guest/Documents/matt/main.m8618298592#1269"    cd /Users/Guest/Documents/matt    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-generated-files.hmap -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-own-target-headers.hmap -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-all-target-headers.hmap -iquote /Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-project-headers.hmap -F/Users/Guest/Documents/matt/build/Debug -I/Users/Guest/Documents/matt/build/Debug/include -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/DerivedSources/x86_64 -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/DerivedSources -include /var/folders/zz/zzzivhrRnAmviuee++++mE+++AY/-Caches-/com.apple.Xcode.201/SharedPrecompiledHeaders/matt_Prefix-epztgryahenajnejyvzqxxzirmbp/matt_Prefix.pch -c /Users/Guest/Documents/matt/main.m -o /Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/matt.build/Debug/matt.build/Objects-normal/x86_64/mattAppDelegate.o /Users/Guest/Documents/matt/mattAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s349240449.021255
+e349240452.427055
+r1
+xCompileC
+xbuild/matt.build/Debug/matt.build/Objects-normal/x86_64/mattAppDelegate.o
+x/Users/Guest/Documents/matt/mattAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Guest/Documents/matt/mattAppDelegate.m349240449#349240452#0(0"0(0#0#45"/Users/Guest/Documents/matt/mattAppDelegate.m8604892032#1291"    cd /Users/Guest/Documents/matt    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-generated-files.hmap -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-own-target-headers.hmap -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-all-target-headers.hmap -iquote /Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-project-headers.hmap -F/Users/Guest/Documents/matt/build/Debug -I/Users/Guest/Documents/matt/build/Debug/include -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/DerivedSources/x86_64 -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/DerivedSources -include /var/folders/zz/zzzivhrRnAmviuee++++mE+++AY/-Caches-/com.apple.Xcode.201/SharedPrecompiledHeaders/matt_Prefix-epztgryahenajnejyvzqxxzirmbp/matt_Prefix.pch -c /Users/Guest/Documents/matt/mattAppDelegate.m -o /Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/Objects-normal/x86_64/mattAppDelegate.o0#
+
+CCompileXIB /Users/Guest/Documents/matt/English.lproj/MainMenu.xib
+r0
+
+CCompileXIB /Users/Guest/Documents/matt/MainMenu.xib
+s349240424.009019
+e349240429.215315
+r1
+xCompileXIB
+x/Users/Guest/Documents/matt/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/Guest/Documents/matt/MainMenu.xib:6427: warning: The 'test:' action of 'Cell' is connected to 'Push Button (Next)' but 'test:' is no longer defined on 'cell'.
+lSLF07#2@23"CompileXIB MainMenu.xib349240424#349240429#0(207"/* com.apple.ibtool.document.warnings *//Users/Guest/Documents/matt/MainMenu.xib:6427: warning: The 'test:' action of 'Cell' is connected to 'Push Button (Next)' but 'test:' is no longer defined on 'cell'.1(22@109"The 'test:' action of 'Cell' is connected to 'Push Button (Next)' but 'test:' is no longer defined on 'cell'.349240429#18446744073709551615#0#0(6@40"/Users/Guest/Documents/matt/MainMenu.xib349240093#6427#0#6427#0#0"0(0#0#40"/Users/Guest/Documents/matt/MainMenu.xib8599359264#300"    cd /Users/Guest/Documents/matt    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Guest/Documents/matt/build/Debug/matt.app/Contents/Resources/MainMenu.nib /Users/Guest/Documents/matt/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/Guest/Documents/matt/build/Debug/matt.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s349240423.939758
+e349240425.149791
+r1
+xCopyStringsFile
+x/Users/Guest/Documents/matt/build/Debug/matt.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings349240423#349240425#0(0"0(0#0#59"/Users/Guest/Documents/matt/English.lproj/InfoPlist.strings8619865728#340"    cd /Users/Guest/Documents/matt    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Guest/Documents/matt/build/Debug/matt.app/Contents/Resources/English.lproj0#
+
+CLd /Users/Guest/Documents/matt/build/Debug/matt.app/Contents/MacOS/matt normal x86_64
+s349240454.997138
+e349240456.418093
+r1
+xLd
+x/Users/Guest/Documents/matt/build/Debug/matt.app/Contents/MacOS/matt
+xnormal
+xx86_64
+lSLF07#2@73"Link /Users/Guest/Documents/matt/build/Debug/matt.app/Contents/MacOS/matt349240454#349240456#0(0"0(0#0#0"8597548864#472"    cd /Users/Guest/Documents/matt    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Guest/Documents/matt/build/Debug -F/Users/Guest/Documents/matt/build/Debug -filelist /Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/Objects-normal/x86_64/matt.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/Guest/Documents/matt/build/Debug/matt.app/Contents/MacOS/matt0#
+
+CProcessInfoPlistFile /Users/Guest/Documents/matt/build/Debug/matt.app/Contents/Info.plist matt-Info.plist
+s349240423.827149
+e349240423.939594
+r1
+xProcessInfoPlistFile
+x/Users/Guest/Documents/matt/build/Debug/matt.app/Contents/Info.plist
+xmatt-Info.plist
+lSLF07#2@23"Process matt-Info.plist349240423#349240423#0(0"0(0#0#43"/Users/Guest/Documents/matt/matt-Info.plist12948325676744814#268"    cd /Users/Guest/Documents/matt    builtin-infoPlistUtility matt-Info.plist -genpkginfo /Users/Guest/Documents/matt/build/Debug/matt.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Guest/Documents/matt/build/Debug/matt.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/zz/zzzivhrRnAmviuee++++mE+++AY/-Caches-/com.apple.Xcode.201/SharedPrecompiledHeaders/matt_Prefix-epztgryahenajnejyvzqxxzirmbp/matt_Prefix.pch.gch matt_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s349240429.215794
+e349240448.988779
+r1
+xProcessPCH
+x/var/folders/zz/zzzivhrRnAmviuee++++mE+++AY/-Caches-/com.apple.Xcode.201/SharedPrecompiledHeaders/matt_Prefix-epztgryahenajnejyvzqxxzirmbp/matt_Prefix.pch.gch
+xmatt_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile matt_Prefix.pch349240429#349240448#0(0"0(0#0#43"/Users/Guest/Documents/matt/matt_Prefix.pch7956278818479038464#1189"    cd /Users/Guest/Documents/matt    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-generated-files.hmap -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-own-target-headers.hmap -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-all-target-headers.hmap -iquote /Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/matt-project-headers.hmap -F/Users/Guest/Documents/matt/build/Debug -I/Users/Guest/Documents/matt/build/Debug/include -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/DerivedSources/x86_64 -I/Users/Guest/Documents/matt/build/matt.build/Debug/matt.build/DerivedSources -c /Users/Guest/Documents/matt/matt_Prefix.pch -o /var/folders/zz/zzzivhrRnAmviuee++++mE+++AY/-Caches-/com.apple.Xcode.201/SharedPrecompiledHeaders/matt_Prefix-epztgryahenajnejyvzqxxzirmbp/matt_Prefix.pch.gch0#
+
+CTouch /Users/Guest/Documents/matt/build/Debug/matt.app
+s349240456.418212
+e349240456.480443
+r1
+xTouch
+x/Users/Guest/Documents/matt/build/Debug/matt.app
+lSLF07#2@54"Touch /Users/Guest/Documents/matt/build/Debug/matt.app349240456#349240456#0(0"0(0#0#0"8620230880#106"    cd /Users/Guest/Documents/matt    /usr/bin/touch -c /Users/Guest/Documents/matt/build/Debug/matt.app0#
+
