@@ -1,0 +1,11 @@
+Game of Life
+
+Use:
+
+In order to use my version of the Game of Life you have to press the START button FIRST.  Due to a shortage on the time I was able to work on the project, I was unable to remove the prepopulated cells and add the initialization to the main method of the program.
+
+NEXT runs the algorithm on all cells
+
+RESET clears the grid
+
+**Sorry the code is a little messy and not as efficient as possible.  There also might be some debugging code left in the program, but it does not affect the outcome or the algorithm.
